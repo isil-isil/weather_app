@@ -1,6 +1,6 @@
 # Application Météo
 
-Une application météo simple et intuitive qui fournit les prévisions météorologiques pour n'importe quelle ville dans le monde. Alimentée par une API, cette application vous permet de rechercher des villes et d'obtenir instantanément les informations météorologiques actuelles ainsi que les prévisions à venir.
+Une application météo simple et intuitive qui fournit les prévisions météorologiques pour n'importe quelle ville (ou région) dans le monde. Alimentée par une API, cette application vous permet de rechercher des villes et d'obtenir instantanément les informations météorologiques actuelles ainsi que les prévisions à venir.
 
 ## Fonctionnalités
 
