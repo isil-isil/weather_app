@@ -26,5 +26,5 @@ Une application météo simple et intuitive qui fournit les prévisions météor
 ## Capture d'écran
 
 ![Capture d'écran de l'application météo](images/imageGit.png)
-<p align="center"><small><em>Comme vous pouvez le constater, ça fonctionne plutôt bien.</em></small></p>
+<p><small><em>Comme vous pouvez le constater, ça fonctionne plutôt bien.</em></small></p>
 
